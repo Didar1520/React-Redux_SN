@@ -1,0 +1,51 @@
+.users-wrapper {
+
+}
+ 
+.users-item {
+
+}
+
+.users-photo {
+    height: 200px;
+}
+
+.users-descr {
+
+}
+
+.users-name {
+
+}
+
+.users-city {
+
+}
+
+.users-coutry {
+
+}
+
+.users-button {
+
+}
+
+.button {
+
+} 
+
+.usersPage {
+    cursor: pointer;
+    padding: 2px;
+    font-size: 18.5px
+}
+
+.UsersPageActive {
+    color: blue;
+    font-size: 20px
+}
+
+.usersPage:hover {
+    color: blue;
+    font-size: 23px;
+}
